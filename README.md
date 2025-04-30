@@ -1,5 +1,14 @@
 William: 
+
+
+
+
+
 A Decentralized InHeritance In Stellar
+
+
+
+
 MVP DEMO
 https://stellar-anchor-weaver.lovable.app
 
