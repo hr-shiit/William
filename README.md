@@ -2,6 +2,8 @@ William:
 A Decentralized InHeritance In Stellar
 
 
+For Working process check WIKI.
+
 Abstract
 The William Web3 wallet introduces a novel approach to posthumous digital asset management by integrating a blockchain-based smart contract with an AI-driven death verification system. Deployed on the Soroban blockchain, the system employs a three-step verification process—user activity monitoring, nominee voting, and AI-based analysis of death certificates and digital footprints—to confirm a user’s death before distributing funds to designated beneficiaries. A Python automation script facilitates email-based reminders and voting, while a robust smart contract ensures secure fund management. This paper presents the system’s technical architecture, evaluates its design through rigorous analysis, and discusses its implications for decentralized finance (DeFi) and digital legacy management. Despite its innovative design, challenges such as data access, email security, and ethical concerns warrant further exploration.
 1. Introduction
