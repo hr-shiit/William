@@ -1,5 +1,5 @@
-William: A Decentralized Web3 Wallet with InHeritance 
-
+William: 
+A Decentralized InHeritance In Stellar
 
 
 Abstract
