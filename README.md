@@ -26,6 +26,16 @@ RUPALI CHHAYA
 
 
 
+
+
+
+Video Limk
+
+
+https://www.loom.com/share/b3c25b7abc3b4ada937e227a97a35a74?sid=076ad255-08d6-419a-92f4-9b6c0677cbe5
+
+
+
 MVP DEMO
 https://stellar-anchor-weaver.lovable.app
 
