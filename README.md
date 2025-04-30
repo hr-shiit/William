@@ -63,6 +63,7 @@ Nominee Voting: If no response, the script emails nominees to vote. A >50% “de
 AI Verification: Nominees upload a death certificate, and the AI SDK validates it and analyzes digital footprints. If confirmed, it updates the smart contract’s IsDead status.
 
 Fund Distribution: The smart contract’s ben_transfer function disburses funds to beneficiaries, with the distribution SDK handling token transfers.
+![Uploading Screenshot 2025-04-30 at 12.49.45 PM.png…]()
 
 Figure 1: System Workflow
 [Placeholder: Include a flowchart depicting the three-step verification and distribution process.]
