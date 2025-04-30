@@ -9,6 +9,23 @@ A Decentralized InHeritance In Stellar
 
 
 
+
+BY 
+
+
+
+
+HARSHIT SRIVASTAV
+
+
+TEJASVI
+
+
+
+RUPALI CHHAYA
+
+
+
 MVP DEMO
 https://stellar-anchor-weaver.lovable.app
 
