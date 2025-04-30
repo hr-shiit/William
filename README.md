@@ -1,6 +1,7 @@
 William: 
 A Decentralized InHeritance In Stellar
-
+MVP DEMO
+https://stellar-anchor-weaver.lovable.app
 
 For Working process check WIKI.
 
@@ -142,6 +143,14 @@ Automated Death Check: Replace manual death_check with an oracle or multi-signat
 Privacy-Preserving AI: Use zero-knowledge proofs for certificate validation to protect user data.
 
 Global Compatibility: Adapt verification for diverse jurisdictions and cultural contexts.
+
+
+
+
+
+Future plan: We can create it as a Sdk that can be implimenteed into any costodiale wallet for account recovery function.
+
+
 
 Enhanced Testing: Expand the test suite to cover edge cases (e.g., concurrent updates, partial percentages).
 
