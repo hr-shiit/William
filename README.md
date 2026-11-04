@@ -10,20 +10,6 @@ A Decentralized InHeritance In Stellar
 
 
 
-BY 
-
-
-
-
-HARSHIT SRIVASTAV
-
-
-TEJASVI
-
-
-
-RUPALI CHHAYA
-
 
 
 
